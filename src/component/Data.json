@@ -1,0 +1,33 @@
+[
+    {
+        "id":1,
+        "name":"Phan Long",
+        "tel":"090999999",
+        "permission":1
+    },
+    {
+        "id":2,
+        "name":"Jack",
+        "tel":"090999999",
+        "permission":2
+    },
+    {
+        "id":3,
+        "name":"Ngô Kiến Huy",
+        "tel":"0902121212",
+        "permission":2
+    },
+    {
+        "id":4,
+        "name":"Lan Ngọc",
+        "tel":"09011111111",
+        "permission":3
+    },
+    {
+        "id":5,
+        "name":"Kỳ Duyên",
+        "tel":"09033333",
+        "permission":3
+    }   
+    
+]
